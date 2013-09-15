@@ -836,4 +836,20 @@ Connection ~ 21300 4300
 Wire Wire Line
 	21100 3850 21100 4400
 Connection ~ 21100 4400
+Text Label 14650 9900 0    60   ~ 0
+7seg digit 0
+Text Label 14700 10400 0    60   ~ 0
+7seg digit 1
+Text Label 14700 10850 0    60   ~ 0
+16seg digit 2a
+Text Label 14700 11300 0    60   ~ 0
+16seg digit 2b
+Text Label 14700 11750 0    60   ~ 0
+8seg digit 3
+Text Label 14700 12200 0    60   ~ 0
+8seg digit 4
+Text Label 14700 12600 0    60   ~ 0
+7seg digit 5
+Text Label 14700 13100 0    60   ~ 0
+7seg digit 6
 $EndSCHEMATC
